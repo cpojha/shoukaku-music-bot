@@ -24,8 +24,7 @@ Go to config/config.json.example rename it file's name into config.json.
     "nodes": [
         {
             "name": "NODE-00",
-            "host": "localhost",
-            "port": 2333,
+            "url": "localhost:2333",
             "auth": "youshallnotpass",
             "secure": false
         }
